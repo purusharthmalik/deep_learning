@@ -1,0 +1,4 @@
+train: /Users/himanshugulechha/Desktop/MSc AI&ML/Sem3/DL/YOLO/train
+val: /Users/himanshugulechha/Desktop/MSc AI&ML/Sem3/DL/YOLO/val
+nc: 3
+names: ['Saree', 'Salwar Kameez', 'Lehenga']
